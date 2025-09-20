@@ -1,0 +1,1 @@
+{"version":3,"file":"flightService.d.ts","sourceRoot":"","sources":["../../src/service/flightService.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,iBAAiB,CAAC;AAGzC,qBAAa,aAAa;IACtB,OAAO,CAAC,MAAM,CAAY;;IAM1B;;OAEG;IACI,aAAa,IAAI,MAAM,EAAE;IAIhC;;OAEG;IACI,aAAa,CAAC,EAAE,EAAE,MAAM;CAMlC"}
