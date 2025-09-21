@@ -27,7 +27,7 @@ O layout das telas deve seguir o modelo fornecido no Figma.
      ```bash
      npm run dev
      ```
-4. A API estará disponível em `http://localhost:3000/flights`.
+4. A API estará disponível em `http://localhost:4000/flights`.
 
 #### Frontend
 
@@ -81,7 +81,15 @@ flight-history/
 
 ### Observações
 
-- TODO: Documentar o código e explicar minhas decisões de arquitetura.
+- `TODO`: Documentar o código e explicar minhas decisões de arquitetura.
+- `TODO`: Implementar testes unitários e de integração.
+- `TODO`: adicionar função frontend de mudança de cor para saldo negativo
+- `TODO`: Criar Dockerfile para containerização do backend e frontend
+- `TODO`: adicionar paginação na listagem de voos
+- `TODO`: Melhorar a responsividade do frontend
+- `TODO`: implementar formatação de fontes e tamanhos de texto conforme o design além das cores
+- `TODO`: Página de detalhes do voo incompleta
+- `TODO`: Melhorar tratamentos de erros no backend e frontend
 
 ### Licença
 
