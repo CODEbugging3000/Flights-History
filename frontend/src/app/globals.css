@@ -3,6 +3,10 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --positive-balance: #00FF88;
+  --negative-balance: #f00;
+  --primary-color: #1A1A1A;
+  --secondary-color: #212121;
 }
 
 @theme inline {
