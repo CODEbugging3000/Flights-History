@@ -20,7 +20,6 @@ O layout das telas deve seguir o modelo fornecido no Figma.
 - **Backend**:
   - Node.js com Express
   - TypeScript
-  - TypeORM (simulando um banco de dados com um arquivo JSON)
   - Cors
   - Dotenv
   - Nodemon (para desenvolvimento)
