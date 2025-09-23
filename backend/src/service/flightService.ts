@@ -11,8 +11,8 @@ export class flightService {
     /**
      * getAllFlights
      */
-    public getAllFlights(): Flight[] {
-        return this.method.findAll();
+    public getAllFlights(offset: number, limit:  number): [Flight[], number] {
+        return this.method.findAll(offset, limit);
     }
 
     /**
